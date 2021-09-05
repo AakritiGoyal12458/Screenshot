@@ -1,7 +1,7 @@
 #taking screenshot with python
 ##1st black n white
 ##2nd coloured
-##we will form a notification center too...
+
 
 ##we need pyautogui
 ##so pip install pyautogui
